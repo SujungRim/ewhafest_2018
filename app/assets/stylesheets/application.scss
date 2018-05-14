@@ -36,13 +36,6 @@ body {
     background: linear-gradient( to bottom, #9f7bd5, #bb84bb, #a6a9ca);
 }
 
-#title_font{
-    font-family: 'GlossAndBloom','Noto Sans KR', cursive;
-    font-size: 30pt;
-    color: white;
-    display: inline-block;
-    margin: auto;
-}
 
 .header{
     text-align: center;
@@ -72,6 +65,10 @@ body {
      position: absolute;
      border-bottom: 1px solid white;
      
+}
+
+.logo_height{
+    height:100px;
 }
 
 .button_date{
